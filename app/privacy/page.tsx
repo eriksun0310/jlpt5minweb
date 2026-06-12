@@ -68,11 +68,6 @@ export default function PrivacyPage() {
           </p>
         </section>
 
-        <footer className="mt-16 border-t border-gray-200 pt-6 text-center text-sm text-gray-500">
-          <a href="/" className="text-blue-600 underline hover:text-blue-800">
-            返回首頁
-          </a>
-        </footer>
       </div>
     </main>
   );
